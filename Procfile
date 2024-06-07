@@ -1,1 +1,1 @@
-worker: python ENCHVNStripe.py
+worker: python brbot.py
